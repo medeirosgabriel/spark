@@ -1,6 +1,6 @@
 # Learning Spark
 ## Implementations:
-- ### Spark Straming
+- ### Spark Streaming
     - ### Socket
     - ### Binance API
     - ### Ethereum Price   
